@@ -7,7 +7,8 @@
 ###
 
 <h2 align="left">About me</h2>
-<p>I'm currently working on Roshka as a backend developer </p>
+<p>I'm currently working on Roshka https://www.roshka.com/ as a backend developer using Java | Spring Boot | SqlServer <br> 
+I am also working on a personal project for a web system for an ICEJAS church, where I do both the backend and the frontend using technologies such as Java |Spring Boot, PostgresSql |Docker |Angular +2 |TypeScript</p>
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
