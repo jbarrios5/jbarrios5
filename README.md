@@ -5,8 +5,8 @@
 <p align="left">My name is Juan Marcelo and I'm a software developer, from Paraguay.</p>
 
 <h2 align="left">About me</h2>
-<p>I'm currently working on Roshka https://www.roshka.com/ as a backend developer using Java |Spring Boot |SqlServer. <br> 
-I am also working on a personal project for a web system for an ICEJAS church https://icejas.shop/, where I do both the backend and the frontend using technologies such as Java |Spring Boot |PostgresSql |Docker |```Angular+2``` |TypeScript.</p>
+<p>I'm currently working on Roshka https://www.roshka.com/ as a backend developer using <strong> Java |Spring Boot |SqlServer.</strong>  <br> 
+I am also working on a personal project for a web system for an ICEJAS church https://icejas.shop/, where I do both the backend and the frontend using technologies such as <strong> Java |Spring Boot |PostgresSql |Docker |Angular+2 |TypeScript.</strong> </p>
 
 
 <h2 align="left">Languages and Tools</h2>
